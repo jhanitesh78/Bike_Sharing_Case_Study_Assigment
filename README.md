@@ -1,7 +1,7 @@
 # Project Name
 - This case study is based on Predictive Analytics and Linear Regression(Machine Learning)
 - It also consists of a seperate pdf file that has answers to all the subjective questions that were given to us as part of the assignment.
-- I have done this case study as part of the Executive PG Diploma program of UpGrad in collaboration with IIIT Bangalore . 
+- I have done this case study as part of the AI/ML learning course from UpGrad in collaboration with IIIT Bangalore . 
 
 
 ## Table of Contents
